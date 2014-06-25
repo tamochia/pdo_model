@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<dsn>sqlite:./sample.sqlite3</dsn>
+	<user></user>
+	<password></password>
+</config>
+

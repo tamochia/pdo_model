@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<dsn>mysql:dbname=sample;host=localhost;charset=utf8</dsn>
+	<user>foo</user>
+	<password>hogehoge</password>
+</config>
+
